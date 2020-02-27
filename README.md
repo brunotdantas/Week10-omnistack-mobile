@@ -4,7 +4,7 @@
 
 ## Proposta da solução: 
 Entregar uma solução mobile para que os usuários busquem pelo mapa desenvolvedores que já estão no banco de dados e
-que se encontram em até 10KM da posição de GPS atual.
+que se encontram em até 10KM da posição de GPS atual. Ao clicar no perfil do usuário é possível navegar em seu perfil do GITHUB.
 
 ## O que é o projeto:  
     - Preparar um APP que pegue a posição de GPS e com base nesta posição faça requisições para API
