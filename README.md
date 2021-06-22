@@ -22,3 +22,9 @@ Sugiro utilizar o gitpod clicando no link abaixo
 - MongoDB
 - [Expo](https://expo.io/) para realização de desenvolvimento e debug em tempo real 
  
+
+#### Githubs relacionados: 
+[FRONTEND](https://github.com/brunotdantas/Week10-omnistack-frontend)
+
+[BACKEND](https://github.com/brunotdantas/Week10-omnistack-backend)
+
